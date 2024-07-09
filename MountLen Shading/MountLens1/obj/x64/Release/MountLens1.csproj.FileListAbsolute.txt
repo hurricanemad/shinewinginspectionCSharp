@@ -1,0 +1,342 @@
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\bin\x64\Release\MountLens1.exe.config
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\bin\x64\Release\MountLens1.exe
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\bin\x64\Release\MountLens1.pdb
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.exe
+H:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.pdb
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\bin\x64\Release\MountLens1.exe.config
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\bin\x64\Release\MountLens1.exe
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\bin\x64\Release\MountLens1.pdb
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.exe
+I:\HanMei\Endscope\Program\MountLens1\MountLens1\obj\x64\Release\MountLens1.pdb
+I:\HanMei\Endscope\Program\MountLens2\MountLens1\bin\x64\Release\MountLens1.exe.config
+I:\HanMei\Endscope\Program\MountLens2\MountLens1\bin\x64\Release\MountLens1.exe
+I:\HanMei\Endscope\Program\MountLens2\MountLens1\bin\x64\Release\MountLens1.pdb
+I:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+I:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+I:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+I:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+I:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.exe
+I:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.pdb
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\bin\x64\Release\MountLens1.exe.config
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\bin\x64\Release\MountLens1.exe
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\bin\x64\Release\MountLens1.pdb
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.exe
+H:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\bin\x64\Release\MountLens1.exe.config
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\bin\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\bin\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens2\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+J:\HanMei\Endscope\Program\MountLens3(AINDANE)\MountLens1\bin\x64\Release\MountLens1.exe.config
+J:\HanMei\Endscope\Program\MountLens3(AINDANE)\MountLens1\bin\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens3(AINDANE)\MountLens1\bin\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens3(AINDANE)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+J:\HanMei\Endscope\Program\MountLens3(AINDANE)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+J:\HanMei\Endscope\Program\MountLens3(AINDANE)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+J:\HanMei\Endscope\Program\MountLens3(AINDANE)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+J:\HanMei\Endscope\Program\MountLens3(AINDANE)\MountLens1\obj\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens3(AINDANE)\MountLens1\obj\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\bin\x64\Release\MountLens1.exe.config
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\bin\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\bin\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\obj\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\obj\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens3(AINDANE GUIDEDFILTER)\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\MountLens1.exe.config
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens4(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\MountLens1.exe.config
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.Curve.resources
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\obj\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\bin\x64\Release\MountLens1.exe.config
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\bin\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\bin\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.Curve.resources
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens5(GAMMAE GUIDEDFILTER DarkRefine CCM)\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\bin\x64\Release\MountLens1.exe.config
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\bin\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\bin\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.Curve.resources
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust)\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\bin\x64\Release\MountLens1.exe.config
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\bin\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\bin\x64\Release\MountLens1.pdb
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.Curve.resources
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.exe
+J:\HanMei\Endscope\Program\MountLens6(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange)\MountLens1\obj\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\obj\x64\Release\MountLens1.Curve.resources
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\obj\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\obj\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\bin\x64\Release\MountLens1.exe.config
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\bin\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\bin\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\bin\x64\Release\MountLens1.exe.config
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\bin\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\bin\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\obj\x64\Release\MountLens1.Curve.resources
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\obj\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens10(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhance PerFrame)\MountLens1\obj\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MountLens1.exe.config
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.Curve.resources
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens11(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MountLens1.exe.config
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\obj\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\bin\x64\Release\MountLens1.exe.config
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\bin\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\bin\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.FileName.resources
+D:\HanMei\Endscope\Program\MountLens12(视频采集)\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\bin\x64\Release\MountLens1.exe.config
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\bin\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\bin\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\obj\x64\Release\MountLens1.FileName.resources
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\obj\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens12(图像检测)\MountLens1\obj\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\bin\x64\Release\MountLens1.exe.config
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\bin\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\bin\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\obj\x64\Release\MountLens1.FileName.resources
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\obj\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\MountLens12(图像检测1)\MountLens1\obj\x64\Release\MountLens1.pdb
+C:\MountLens\MountLens1\bin\x64\Release\MountLens1.exe.config
+C:\MountLens\MountLens1\bin\x64\Release\MountLens1.exe
+C:\MountLens\MountLens1\bin\x64\Release\MountLens1.pdb
+C:\MountLens\MountLens1\obj\x64\Release\MountLens1.FileName.resources
+C:\MountLens\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+C:\MountLens\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+C:\MountLens\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+C:\MountLens\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+C:\MountLens\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+C:\MountLens\MountLens1\obj\x64\Release\MountLens1.exe
+C:\MountLens\MountLens1\obj\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\MountLens\MountLens1\bin\x64\Release\MountLens1.exe.config
+D:\HanMei\Endscope\MountLens\MountLens1\bin\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\MountLens\MountLens1\bin\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\MountLens\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+D:\HanMei\Endscope\MountLens\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+D:\HanMei\Endscope\MountLens\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+D:\HanMei\Endscope\MountLens\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+D:\HanMei\Endscope\MountLens\MountLens1\obj\x64\Release\MountLens1.FileName.resources
+D:\HanMei\Endscope\MountLens\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+D:\HanMei\Endscope\MountLens\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+D:\HanMei\Endscope\MountLens\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+D:\HanMei\Endscope\MountLens\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+D:\HanMei\Endscope\MountLens\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+D:\HanMei\Endscope\MountLens\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+D:\HanMei\Endscope\MountLens\MountLens1\obj\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\MountLens\MountLens1\obj\x64\Release\MountLens1.pdb
+C:\MountLens\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.exe.config
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.FileName.resources
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.exe
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.pdb
+D:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.exe.config
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.exe
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.pdb
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.FileName.resources
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.exe
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.pdb
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.exe.config
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.exe
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.pdb
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.FileName.resources
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.exe
+G:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.pdb
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.CopyComplete
+E:\HanMei\Endscope\Program\图像检测shinewing\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.exe.config
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.exe
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\bin\x64\Release\MountLens1.pdb
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.AssemblyReference.cache
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.FileName.resources
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.MountLensWindow.resources
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.Properties.Resources.resources
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.GenerateResource.cache
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.exe.licenses
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.CoreCompileInputs.cache
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.csproj.Up2Date
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.exe
+E:\HanMei\Endscope\Program\T0.0.5\MountLen Shading\MountLens1\obj\x64\Release\MountLens1.pdb

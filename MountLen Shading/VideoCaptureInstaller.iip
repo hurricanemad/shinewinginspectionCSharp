@@ -1,0 +1,2199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstallerBuilderProject>
+  <Installer>
+    <ProductName>VideoCaptureInstaller</ProductName>
+    <InstallerExecutableName>Install.exe</InstallerExecutableName>
+    <ScheduleReboot>false</ScheduleReboot>
+    <ProductVersion>1.0.2</ProductVersion>
+    <UpgradeCode>{80E81339-A5CC-481B-9166-159E1746AED3}</UpgradeCode>
+    <Publisher>&lt;Unknown&gt;</Publisher>
+    <AllowDirectorySelection>true</AllowDirectorySelection>
+    <SelectedProducts>
+      <ProductSelection>
+        <Product>
+          <Id>{9914B946-4676-4136-8900-79B5228863A6}</Id>
+          <UpgradeCode>36fe40af-6da0-447a-90a3-1a62e6350f03</UpgradeCode>
+          <Name>NI Common Runtime 19.0 for .NET Framework 4.0</Name>
+          <Version>19.0.49152</Version>
+          <Description>NI Common Runtime 19.0 for .NET Framework 4.0</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{66189E1A-430C-411A-B675-127BEBD36BE5}</Id>
+          <UpgradeCode>36fe40af-6da0-447a-90a3-1a62e6350f03</UpgradeCode>
+          <Name>NI Measurement Studio Common Runtime 19.1 for .NET Framework 4.0</Name>
+          <Version>19.10.49152</Version>
+          <Description>NI Measurement Studio Common Runtime 19.1 for .NET Framework 4.0</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{E698B75A-2FE4-4533-B2C4-44CA18B27085}</Id>
+          <UpgradeCode>a5b81f21-90f6-4f43-8028-9bdb3614859f</UpgradeCode>
+          <Name>NI NetworkVariable Runtime 19.0 for .NET Framework 4.5</Name>
+          <Version>19.0.49152</Version>
+          <Description>NI NetworkVariable Runtime 19.0 for .NET Framework 4.5</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{7BCBAD6D-509E-421E-9693-7765C68EB23D}</Id>
+          <UpgradeCode>8ed6f20a-c4a5-4264-bc6a-88a82ae713ff</UpgradeCode>
+          <Name>NI UI.Styles3D Runtime 19.0 for .NET Framework 4.0</Name>
+          <Version>19.0.49152</Version>
+          <Description>NI UI.Styles3D Runtime 19.0 for .NET Framework 4.0</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{498AAE23-5851-48E3-A599-7B6E4C345262}</Id>
+          <UpgradeCode>7db29f96-8f66-4428-ab4a-6efcfd3e1719</UpgradeCode>
+          <Name>NI UI Runtime 19.0 for .NET Framework 4.5</Name>
+          <Version>19.0.49152</Version>
+          <Description>NI UI Runtime 19.0 for .NET Framework 4.5</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{E444195C-C122-416A-AEB7-782DEF88F926}</Id>
+          <UpgradeCode>c00e5bdb-b6e7-4ea4-83f5-c4ce1e13ee2e</UpgradeCode>
+          <Name>NI UI.WinForms Runtime 19.0 for .NET Framework 4.5</Name>
+          <Version>19.0.49152</Version>
+          <Description>NI UI.WinForms Runtime 19.0 for .NET Framework 4.5</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{66383CB2-06C9-4CFE-AD8E-658B3218EBF4}</Id>
+          <UpgradeCode>69da64f2-1630-4c0c-947d-6cf5590a63a4</UpgradeCode>
+          <Name>Microsoft Silverlight 5.1</Name>
+          <Version>5.18.49152</Version>
+          <Description>Required by some National Instruments products. Refer to the descriptions of your selected products to determine whether you should include Silverlight in your installer.</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>_full_</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{EFE04526-13D8-42C5-812E-ABE078A93075}</Id>
+          <UpgradeCode>568f6fc8-7601-423d-9471-587e80ee1533</UpgradeCode>
+          <Name>NI UI.WPF.Controls Runtime 19.0 for .NET Framework 4.5</Name>
+          <Version>19.0.49152</Version>
+          <Description>NI UI.WPF.Controls Runtime 19.0 for .NET Framework 4.5</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{CBAEE93B-E688-4F80-971B-214283B2D5A3}</Id>
+          <UpgradeCode>2b65418f-22a2-44da-8d92-fb378838ec39</UpgradeCode>
+          <Name>NI UI.WPF.Graphs Runtime 19.0 for .NET Framework 4.5</Name>
+          <Version>19.0.49152</Version>
+          <Description>NI UI.WPF.Graphs Runtime 19.0 for .NET Framework 4.5</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{B242AA15-DF26-437F-A651-E0E16F5D5157}</Id>
+          <UpgradeCode>fea2b7e2-ad43-445d-9ce3-ef4438aa3c18</UpgradeCode>
+          <Name>NI UI.WPF.Controls Runtime 19.0 for .NET Framework 4.0</Name>
+          <Version>19.0.49152</Version>
+          <Description>NI UI.WPF.Controls Runtime 19.0 for .NET Framework 4.0</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{1E8BFEF5-8206-456A-B5BF-F9B250F49F80}</Id>
+          <UpgradeCode>9d312192-1174-4956-a956-b7774463db2b</UpgradeCode>
+          <Name>NI UI.WPF.Graphs Runtime 19.0 for .NET Framework 4.0</Name>
+          <Version>19.0.49152</Version>
+          <Description>NI UI.WPF.Graphs Runtime 19.0 for .NET Framework 4.0</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+    </SelectedProducts>
+    <InstallationUISettings>
+      <Language>English</Language>
+      <ReadMeFile />
+      <LicenseFile />
+      <BannerImagePath />
+      <BackgroundImagePath />
+      <WelcomeDialogTitle>Himaging VideoCapture</WelcomeDialogTitle>
+      <WelcomeDialogText>Himaging VideoCapture</WelcomeDialogText>
+      <SingleDirectoryDialogText />
+      <EnableFeatureTreeDialog>false</EnableFeatureTreeDialog>
+    </InstallationUISettings>
+    <BuildOutputSettings>
+      <BuildDirectory>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)</BuildDirectory>
+      <MediaSpanSizeInMegaBytes>0</MediaSpanSizeInMegaBytes>
+      <BuildMode>MetaInstallerWithPatchSupport</BuildMode>
+      <VolumeLabel>Volume</VolumeLabel>
+    </BuildOutputSettings>
+    <LaunchCondition>
+      <MinimumOperatingSystem>None</MinimumOperatingSystem>
+      <MaximumOperatingSystem>None</MaximumOperatingSystem>
+      <MinimumDotNetVersion>None</MinimumDotNetVersion>
+    </LaunchCondition>
+    <BitnessMode>Mixed</BitnessMode>
+    <ApplicationDirectory>
+      <Path>VideoCapture</Path>
+      <RootPath>ProgramFilesFolder</RootPath>
+      <PathType>RelativeToDirectoryTableKey</PathType>
+    </ApplicationDirectory>
+    <PropertyTable />
+    <Files>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{1C43D8EB-0059-4E97-A9DB-93B5EE316EF0}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\avcodec-57.dll</SourceFullPath>
+        <FileName>avcodec-57.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{83BF992F-9658-41D1-A518-DECCAC578E04}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\avdevice-57.dll</SourceFullPath>
+        <FileName>avdevice-57.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{5EE137F7-55F7-415C-9F0C-31CA93AD4E57}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\avfilter-6.dll</SourceFullPath>
+        <FileName>avfilter-6.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{00E70735-9F5C-45B8-AF1E-8618FCC213CA}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\avformat-57.dll</SourceFullPath>
+        <FileName>avformat-57.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{5B10F19A-D1DB-4051-9F7A-4EB486F0BA4A}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\avutil-55.dll</SourceFullPath>
+        <FileName>avutil-55.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{BD211943-F420-4312-A5DD-C2204646EEFD}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\CUDAMANRDLL.dll</SourceFullPath>
+        <FileName>CUDAMANRDLL.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{44D8C4A6-572B-4B1F-8550-C5AA5EFD9C40}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\CUDAMANRDLL.exp</SourceFullPath>
+        <FileName>CUDAMANRDLL.exp</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{18ED559A-7E22-430F-A43A-3C2EEBAA4902}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\CUDAMANRDLL.lib</SourceFullPath>
+        <FileName>CUDAMANRDLL.lib</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{E0DC536B-9D6E-4FA1-A30D-4055AFCA875E}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\CUDAMANRDLL.pdb</SourceFullPath>
+        <FileName>CUDAMANRDLL.pdb</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{F676105A-36E9-4F48-BFF5-1B3913C13988}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\D3DCompiler_43.dll</SourceFullPath>
+        <FileName>D3DCompiler_43.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{CB980023-50BC-49A0-97F8-5EDB22DCEE69}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\d3dcompiler_47.dll</SourceFullPath>
+        <FileName>d3dcompiler_47.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{754A5E17-601E-4494-BDA1-C92565578992}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\d3dx11_43.dll</SourceFullPath>
+        <FileName>d3dx11_43.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{B3591C9E-1684-42B4-BB6A-933ECA87AA7D}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\glew32.dll</SourceFullPath>
+        <FileName>glew32.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{AC5AC32F-D111-46A9-B431-A38B4E490114}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\jawt.dll</SourceFullPath>
+        <FileName>jawt.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{5594012A-9CDC-421A-A7EB-F08A5E493CE9}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\libblas.dll</SourceFullPath>
+        <FileName>libblas.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{CCCA6BCC-8D29-4246-973D-DA1949A13380}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\libgcc_s_seh_64-1.dll</SourceFullPath>
+        <FileName>libgcc_s_seh_64-1.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{8317349E-D8F5-44F2-8E59-C8CF950E5040}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\libgcc_s_seh-1.dll</SourceFullPath>
+        <FileName>libgcc_s_seh-1.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{A1BE367D-9808-418E-B684-9ABA6E53BD4B}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\libgfortran_64-3.dll</SourceFullPath>
+        <FileName>libgfortran_64-3.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{6F690129-827C-4B49-8D4A-3046D27ECBAB}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\liblapack.dll</SourceFullPath>
+        <FileName>liblapack.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{8FBD9AB0-94D9-49B9-8DB3-F72C1FCD42D7}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\liblapacke.dll</SourceFullPath>
+        <FileName>liblapacke.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{E636A964-D87E-4AE6-90E8-38190C7C0DFE}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\libquadmath-0.dll</SourceFullPath>
+        <FileName>libquadmath-0.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{9435E826-A33C-49CC-90E9-7D74A94213FF}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\libwinpthread-1.dll</SourceFullPath>
+        <FileName>libwinpthread-1.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{99D7F7A3-0C4B-4C03-9E8A-DB54BE50334C}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\LUT0.4.txt</SourceFullPath>
+        <FileName>LUT0.4.txt</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{62F75BE6-3C11-4FFA-BCFD-4EC53BA08CDE}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\LUT0.6.txt</SourceFullPath>
+        <FileName>LUT0.6.txt</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{C1F41D00-AC03-41D9-A0AB-0651D13B2F69}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\LUT0.8.txt</SourceFullPath>
+        <FileName>LUT0.8.txt</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{C40E622E-23AC-4709-9CDA-556D08570062}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\LUT1.0.txt</SourceFullPath>
+        <FileName>LUT1.0.txt</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{1C4C704D-7060-4517-868F-B1E37E4D62D2}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MANRDLL.dll</SourceFullPath>
+        <FileName>MANRDLL.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{34341563-A756-4EA1-A94B-D25875064608}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MANRDLL.exp</SourceFullPath>
+        <FileName>MANRDLL.exp</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{A1BB52F8-9887-47C6-B135-D3956AD94E13}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MANRDLL.iobj</SourceFullPath>
+        <FileName>MANRDLL.iobj</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{A821E0DC-5076-49D1-9A4B-DDCB3A0B8A29}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MANRDLL.ipdb</SourceFullPath>
+        <FileName>MANRDLL.ipdb</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{3CFE61B4-9FF6-4983-9E83-3C84D4D09C5B}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MANRDLL.lib</SourceFullPath>
+        <FileName>MANRDLL.lib</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{31B9FFAD-229B-44D0-AC79-CA2925D915DE}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MANRDLL.pdb</SourceFullPath>
+        <FileName>MANRDLL.pdb</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{EEEFF36C-2769-43F4-A76F-B6976F4E49B1}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MountLens1.exe</SourceFullPath>
+        <FileName>MountLens1.exe</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes>
+          <FileShortcutAttribute>
+            <Description>MountLens1.exe</Description>
+            <CommandLineArguments />
+            <Name>VideoCapture.exe</Name>
+            <ProgramGroup>VideoCapture</ProgramGroup>
+            <ApplicationLaunchStyle>Normal</ApplicationLaunchStyle>
+            <WorkingDirectory>.</WorkingDirectory>
+            <TopLevelSystemDirectory>DesktopFolder</TopLevelSystemDirectory>
+          </FileShortcutAttribute>
+        </FileShortcutAttributes>
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{E6522DD2-7655-4E22-913B-0E06FC11A59B}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MountLens1.exe.config</SourceFullPath>
+        <FileName>MountLens1.exe.config</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{22A8A5EF-15BF-41C6-A9F3-11C5EE9E76C0}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\MountLens1.pdb</SourceFullPath>
+        <FileName>MountLens1.pdb</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{67220BFA-A6E5-4A2B-AC92-C553AC4D8568}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\msvcp100d.dll</SourceFullPath>
+        <FileName>msvcp100d.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{B6A8F172-ADD8-4523-9779-E84E64877725}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\msvcp120.dll</SourceFullPath>
+        <FileName>msvcp120.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{60500A37-4D2C-4118-BFA1-6C0D64AF1386}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\msvcr100d.dll</SourceFullPath>
+        <FileName>msvcr100d.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{7AC82EFD-9AC7-4592-88B5-F48F4DEAE967}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\msvcr120.dll</SourceFullPath>
+        <FileName>msvcr120.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{E4AC428A-5981-4424-9C73-D716A3335D19}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\mw_mp4_d.dll</SourceFullPath>
+        <FileName>mw_mp4_d.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{F74B4CCB-77DF-4CE3-9A18-1B22008A74DF}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.dll</SourceFullPath>
+        <FileName>NationalInstruments.NetworkVariable.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{A252D53D-A1FE-4599-919A-696A4F550761}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.NetworkVariable.xml</SourceFullPath>
+        <FileName>NationalInstruments.NetworkVariable.xml</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{4C4B0392-77FD-4E80-B00E-7C48DBB34A41}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll</SourceFullPath>
+        <FileName>NationalInstruments.UI.WindowsForms.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{9BDD540B-5FBA-416C-957E-A16F02B62558}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml</SourceFullPath>
+        <FileName>NationalInstruments.UI.WindowsForms.xml</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{36D8F872-077C-422A-AFAE-BEFC14FC3448}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\opencv_core451.dll</SourceFullPath>
+        <FileName>opencv_core451.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{AB5E8D1E-5838-46FD-9D0D-881618055CF2}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\opencv_highgui451.dll</SourceFullPath>
+        <FileName>opencv_highgui451.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{A58AD1ED-B7A1-4174-94BE-3E56E9D464B3}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\opencv_imgcodecs451.dll</SourceFullPath>
+        <FileName>opencv_imgcodecs451.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{253DCCFC-18FC-4EB2-B251-50BA37D10195}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\opencv_imgproc451.dll</SourceFullPath>
+        <FileName>opencv_imgproc451.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{63480895-E679-4257-A5BC-7CBD9E4259A9}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\opencv_videoio451.dll</SourceFullPath>
+        <FileName>opencv_videoio451.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{C06A4082-33AA-4FEA-A45D-FFA5A371EC33}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\postproc-54.dll</SourceFullPath>
+        <FileName>postproc-54.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{FF940ABC-DCB6-4320-93CF-EE57F63D1EEF}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\Processing.NDI.Lib.UWP.x64.dll</SourceFullPath>
+        <FileName>Processing.NDI.Lib.UWP.x64.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{0F62DE74-3C1A-429D-8AE6-65BF366E625E}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\Processing.NDI.Lib.x64.dll</SourceFullPath>
+        <FileName>Processing.NDI.Lib.x64.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{22A8E4B5-365D-43B5-97A3-CE2E7A62CDE2}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\swresample-2.dll</SourceFullPath>
+        <FileName>swresample-2.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{D0337293-2F1D-4B6C-8065-11529B05F52E}</ComponentId>
+        <SourceFullPath>D:\HanMei\Endscope\Program\MountLens12(GAMMAE GUIDEDFILTER DarkRefine CCM TDFORMER LumaAdjust ImageEnhanceChange ColorEnhanceInt PerFrame)\MountLens1\bin\x64\Release\swscale-4.dll</SourceFullPath>
+        <FileName>swscale-4.dll</FileName>
+        <TargetPath>
+          <Path>VideoCapture</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+    </Files>
+    <MergeModules />
+    <Registries />
+    <ApplicationsToRunOnTargetMachine />
+    <MAXConfigurationFile />
+    <InstallerFileSummary>
+      <Title />
+      <Subject />
+      <Keywords />
+      <Author />
+      <Comments />
+      <ApplicationName />
+      <Security>NoRestriction</Security>
+    </InstallerFileSummary>
+    <WindowsProgramsSettings>
+      <HelpUrl />
+      <PublisherContact />
+      <SupportUrl />
+      <SupportPhone />
+      <ProductUpdatesUrl />
+      <Comments />
+    </WindowsProgramsSettings>
+    <Id>{7182D7B1-B5E0-45C8-A65C-0F8CFA82E648}</Id>
+  </Installer>
+  <TargetDirectories>
+    <TargetDirectoryInformation>
+      <TargetPath>
+        <Path />
+        <RootPath>ProgramFilesFolder</RootPath>
+        <PathType>RelativeToDirectoryTableKey</PathType>
+      </TargetPath>
+      <IsUnlockDirectory>false</IsUnlockDirectory>
+    </TargetDirectoryInformation>
+    <TargetDirectoryInformation>
+      <TargetPath>
+        <Path>VideoCapture</Path>
+        <RootPath>ProgramFilesFolder</RootPath>
+        <PathType>RelativeToDirectoryTableKey</PathType>
+      </TargetPath>
+      <IsUnlockDirectory>false</IsUnlockDirectory>
+    </TargetDirectoryInformation>
+  </TargetDirectories>
+  <VersionIncrementMode>IncrementAfterSuccessfulBuild</VersionIncrementMode>
+  <UserNotes />
+  <IsShowRuntimeInstallerOnly>True</IsShowRuntimeInstallerOnly>
+  <IsCustomInstallerName>True</IsCustomInstallerName>
+  <AutoIncludeInstallers>True</AutoIncludeInstallers>
+  <ProductSelectionInfoList>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{9914B946-4676-4136-8900-79B5228863A6}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{66189E1A-430C-411A-B675-127BEBD36BE5}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{E698B75A-2FE4-4533-B2C4-44CA18B27085}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{7BCBAD6D-509E-421E-9693-7765C68EB23D}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{498AAE23-5851-48E3-A599-7B6E4C345262}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{E444195C-C122-416A-AEB7-782DEF88F926}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{66383CB2-06C9-4CFE-AD8E-658B3218EBF4}</ProductId>
+        <FlavorId>_full_</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>True</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{EFE04526-13D8-42C5-812E-ABE078A93075}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>True</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{CBAEE93B-E688-4F80-971B-214283B2D5A3}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>True</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{B242AA15-DF26-437F-A651-E0E16F5D5157}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>True</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{1E8BFEF5-8206-456A-B5BF-F9B250F49F80}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>True</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+  </ProductSelectionInfoList>
+  <DigitalSignatureProperties>
+    <IsDigitallySignInstallerExe>False</IsDigitallySignInstallerExe>
+    <DigitalCertificateStore>MY</DigitalCertificateStore>
+    <CertificateName>Adobe Content Certificate 10-5</CertificateName>
+    <TimeStampUrl />
+    <DescriptionUrl />
+  </DigitalSignatureProperties>
+</InstallerBuilderProject>
