@@ -1381,9 +1381,12 @@ namespace AVCapture2CSharp
             {
                 double* pdSATPtr = GetSubAreaTenegrad();
 
-                for (int n = 0; n < 9; n++)
+                if (pdSATPtr != null)
                 {
-                    pdTenegrads[n] = pdSATPtr[n];
+                    for (int n = 0; n < 9; n++)
+                    {
+                        pdTenegrads[n] = pdSATPtr[n];
+                    }
                 }
             }
         }
@@ -1495,10 +1498,10 @@ namespace AVCapture2CSharp
                 dNRFOV = nNRFOV;
             }
 
-            dLeftTopAngle = 20 + nPLFOV * 10;
-            dRightBottomAngle = 20 + nNRFOV * 10;
-            dRightUpAngle = 20 + nPRFOV * 10;
-            dLeftBottomAngle = 20 + nNLFOV * 10;
+            dLeftTopAngle = 20 + dPLFOV * 10;
+            dRightBottomAngle = 20 + dNRFOV * 10;
+            dRightUpAngle = 20 + dPRFOV * 10;
+            dLeftBottomAngle = 20 + dNLFOV * 10;
 
         }
 

@@ -831,6 +831,9 @@ namespace MountLens1
 
                     m_MWCapture.M_NFIGUREDEFINITION = 1;
                     buttonDifinition.Text = "关闭近场分辨率测试";
+                    EstimatedResult erStatus = (EstimatedResult)Marshal.PtrToStructure(MWCapture.intptrTemp, typeof(EstimatedResult));
+                    erStatus.nDefinitionFarAlready = 1;
+                    erStatus.nDefinitionNearAlready = 1;
                     buttonFarField.Enabled = false;
                     if (m_MWCapture.M_NFIGUREFOV == 1 ||
                         m_MWCapture.M_NFIGUREDEFINITION == 1 ||
@@ -871,6 +874,9 @@ namespace MountLens1
                         m_MWCapture.M_BDENOICEENABLE = false;
                     }
                     m_MWCapture.M_NIMAGENO = 0;
+                    EstimatedResult erStatus = (EstimatedResult)Marshal.PtrToStructure(MWCapture.intptrTemp, typeof(EstimatedResult));
+                    erStatus.nDefinitionFarAlready = 1;
+                    erStatus.nDefinitionNearAlready = 1;
                 }
             }
 
@@ -1364,6 +1370,7 @@ namespace MountLens1
                 {
                     if (m_nFigureFOVNo < 10)
                     {
+                        erStatus.nFovAlready = 1;
                         double dLUAngle = 0.0, dRBAngle = 0.0, dRUAngle = 0.0, dLBAngle = 0.0;
                         m_MWCapture.GetFOVAngles(ref dLUAngle, ref dRBAngle, ref dRUAngle, ref dLBAngle);
 
@@ -1497,6 +1504,7 @@ namespace MountLens1
                 {
                     if (m_nFigureUnformityNo < 10)
                     {
+                        erStatus.nUnformityAlready = 1;
                         double dMaxUnformity = 0.0, dMinUnformity = 0.0, dMeanUnformity = 0.0;
                         m_MWCapture.GetUnformity(ref dMaxUnformity, ref dMinUnformity, ref dMeanUnformity);
 
@@ -1585,6 +1593,7 @@ namespace MountLens1
                 {
                     if (m_nFigureBRNo < 10)
                     {
+                        erStatus.nBrAlready = 1;
                         double dBrightnessRatio = m_MWCapture.GetBr();
                         textBoxBrightnessRatio.Text = dBrightnessRatio.ToString("f4");
 
@@ -1637,6 +1646,7 @@ namespace MountLens1
                 if (m_MWCapture.M_BSHADINGALREADY && m_nButtomEnable == 0)
                 {
                     buttonShading.Enabled = true;
+                    checkBox2.Enabled = true;
                     m_nButtomEnable++;
                     toolStripStatusLabel3.Text = "Shading测试完成！";
                 }
@@ -1676,6 +1686,7 @@ namespace MountLens1
             {
                 m_MWCapture.M_BSHADINGENABLE = true;
                 buttonShading.Enabled = false;
+                checkBox2.Enabled = false;
                 m_nButtomEnable = 0;
                 toolStripStatusLabel3.Text = "开始Shading测试，请勿关闭程序！";
             }
